@@ -10,3 +10,4 @@ youtube-search
 wikepedia
 ddgs
 yfinance
+structlog
