@@ -11,3 +11,5 @@ wikepedia
 ddgs
 yfinance
 structlog
+langchain-google-genai
+langchain-groq
